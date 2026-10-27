@@ -8,21 +8,20 @@ export const Hero = () => {
         <div className="py-16 block justify-between md:grid grid-cols-12 bg-gradient-to-b from-transparent to-[#00000050]">
           <div className="flex flex-col col-start-2 col-end-6 gap-6 pt-12 sm:col-start-1 md:ps-16">
             <h1 className="text-6xl md:text-7xl font-heading">
-              FUNERAL SERVICES FOR{" "}
+              ·望舒客栈{" "}
               <span className="text-red-500">
-                <span className="relative">CHEAP </span>
+                <span className="relative">XIAO </span>
               </span>
             </h1>
             <p className="text-[#FFFFFFCC] max-w-sm leading-relaxed">
-              Aiya~! Enjoy your post-mortem benefits from Wangsheng Funeral
-              Parlor by signing up to our <br />
+              2026.10.27 三分钟热度作品 <br />
               <span className="italic text-red-500">
-                <a href="#">special lethal offers!</a>
+                <a href="#">Why Not Try?</a>
               </span>
             </p>
             <a href="#contacts" className="relative mt-8">
               <button className="relative px-16 py-4 w-full font-semibold text-white bg-red-500 rounded-full transition-all duration-300 ease-in-out md:w-auto hover:bg-red-600 group">
-                <p>BOOK NOW</p>
+                <p>ENTER!</p>
                 <img
                   src={huTaoHat}
                   alt="huTaoHat"
