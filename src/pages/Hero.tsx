@@ -32,9 +32,9 @@ export const Hero = () => {
           </div>
           <div className="relative col-span-6 col-end-12 justify-center items-center md:p-10 min-h-[500px] md:mt-12 bg-blues-300">
             <img
-              src="https://i0.wp.com/traveler.gg/wp-content/uploads/Hutao-Banner1.png?resize=2048%2C1750&ssl=1"
+              src="/XIAO.png"
               className="absolute rounded-[48px] top-20 md:top-0 "
-              alt=""
+              alt="魈的人物立绘"
             />
 
             {/* <div className="absolute py-6 px-12 right-0 bottom-[-5rem] rounded-lg bg-orange-600 text-white shadow-lg">
